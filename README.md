@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrokenChampion-Phoenix
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently using C#
 - 💞️ I’m looking to collaborate on any sorts of projects
 - 📫 How to reach me ahmad01116647631@gmail.com
 
